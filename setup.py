@@ -21,7 +21,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=long_description,
     packages=find_packages(),
-    install_requires=['numpy', 'turtle'],
+    install_requires=['numpy', 'turtle', 'snowflake'],
     keywords=['python', 'snow', 'snowfall', 'colour'],
     classifiers=[
         "Development Status :: 1 - Planning",
