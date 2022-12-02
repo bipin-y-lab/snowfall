@@ -1,6 +1,5 @@
 import turtle
 import numpy as np
-import random
 
 def main(speed=0, bg_color="grey"):
     # create Turtle object
